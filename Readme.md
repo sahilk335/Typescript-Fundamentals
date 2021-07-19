@@ -19,3 +19,5 @@ typescript --v
 tsc main.ts
 ```
 
+- Create tscconfig.json to structure the files 
+
