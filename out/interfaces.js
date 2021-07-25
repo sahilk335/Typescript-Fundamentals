@@ -11,4 +11,4 @@ var user2 = {
         return "Hello" + name;
     }
 };
-console.log(user.name);
+console.log(user2.name);
